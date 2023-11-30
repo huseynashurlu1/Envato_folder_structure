@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: purple;
+  padding: 20px 0;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
+
+nav a {
+  margin-left: 25px;
+}
